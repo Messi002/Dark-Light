@@ -161,6 +161,16 @@ a{
     .div-form {
      height: 400px;
     }
+    .switch {
+        display: flex;
+        width: 35vw;
+        height: 90px;
+        margin-bottom: 18px;
+        border-radius: 10px 60px;
+        justify-content: space-around;
+        align-items: center;
+        background-color: #5c0d79;
+      }
     .sign{
         padding-top: 4px;
         /* background-color: aqua; */
